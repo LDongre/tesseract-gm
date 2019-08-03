@@ -1,0 +1,17 @@
+{
+  "name": "ImageModify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "live": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gm": "^1.23.1",
+    "node-tesseract-ocr": "^0.1.0",
+    "nodemon": "^1.19.1"
+  }
+}
